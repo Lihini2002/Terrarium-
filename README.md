@@ -5,5 +5,5 @@ Each creature is defined by a mutable DNA structure encoding traits such as spee
 Over time, populations evolve toward more efficient survival strategies as fitness-driven reproduction favors successful genetic traits.
 
 One can watch the animals being born, forage , hunt and being hunted and the trees growing and the grass decaying. As one may assume a supreme metaphysical being with a supercomputer watching over the earth.  
-<img width="640" height="640" alt="image" src="https://github.com/user-attachments/assets/0cc0976b-cf05-4fbb-8ad1-260ac6d745ee" />
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/0cc0976b-cf05-4fbb-8ad1-260ac6d745ee" />
 
